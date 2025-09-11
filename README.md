@@ -13,7 +13,7 @@
 ## 🛠️ Technologies & Outils
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,riotjs,html,css,git,docker,linux,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,git,docker,linux,vscode&perline=5" />
 </div>
 
 ## 📊 Statistiques GitHub
