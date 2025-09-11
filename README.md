@@ -38,12 +38,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BasileLgr&theme=tokyo-night&hide_border=true" />
 </div>
 
-## 🎵 Spotify en cours d'écoute
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</div>
-
 ## 🌐 Retrouve-moi ici
 
 <div align="center">
