@@ -9,12 +9,11 @@
 - 💻 Développeur passionné par les nouvelles technologies
 - 🌱 Toujours en train d'apprendre quelque chose de nouveau
 - 🎯 Objectif : créer des applications qui font la différence
-- ⚡ Fun fact : Je code mieux avec un bon café ☕
 
 ## 🛠️ Technologies & Outils
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,vue,html,css,git,docker,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,riotjs,html,css,git,docker,linux,vscode&perline=6" />
 </div>
 
 ## 📊 Statistiques GitHub
