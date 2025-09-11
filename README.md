@@ -60,7 +60,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BasileLgr&color=blueviolet&style=flat-square&label=Visiteurs" />
 </div>
-
-<div align="center">
-  <i>⭐️ N'hésite pas à star mes repos si tu les trouves utiles !</i>
-</div>
