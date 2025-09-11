@@ -32,12 +32,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BasileLgr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BasileLgr/BasileLgr/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
 ## 📈 Graphique d'activité
 
 <div align="center">
@@ -53,14 +47,11 @@
 ## 🌐 Retrouve-moi ici
 
 <div align="center">
-  <a href="https://linkedin.com/in/basile-legros" target="_blank">
+  <a href="https://linkedin.com/in/basile-legrelle" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:basile@example.com" target="_blank">
+  <a href="mailto:basile@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://basile-portfolio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
