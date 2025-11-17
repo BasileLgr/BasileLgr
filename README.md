@@ -16,28 +16,6 @@
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,git,docker,linux,vscode&perline=5" />
 </div>
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasileLgr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BasileLgr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BasileLgr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-## 📈 Graphique d'activité
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BasileLgr&theme=tokyo-night&hide_border=true" />
-</div>
-
 ## 🌐 Retrouve-moi ici
 
 <div align="center">
